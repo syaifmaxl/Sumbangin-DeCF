@@ -1,10 +1,10 @@
-# Platform Donasi Terdesentralisasi di Avalanche
+# Sumbangin - Platform Donasi Terdesentralisasi di Avalanche
 
 ![Avalanche Logo](https://img.shields.io/badge/Blockchain-Avalanche-E84142?style=for-the-badge&logo=avalanche)
 ![Solidity Logo](https://img.shields.io/badge/Language-Solidity-363636?style=for-the-badge&logo=solidity)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 
-Proyek ini adalah implementasi *smart contract* sederhana untuk sebuah platform donasi DeCF (Desentralized CrowdFunding) yang dibangun di atas blockchain **Avalanche (AVAX)**. Sistem ini memungkinkan siapa saja untuk membuat kampanye penggalangan dana, dan siapa pun dapat berdonasi ke kampanye tersebut menggunakan token AVAX.
+Sumbangin adalah implementasi *smart contract* sederhana untuk sebuah platform donasi DeCF (Desentralized CrowdFunding) yang dibangun di atas blockchain **Avalanche (AVAX)**. Sistem ini memungkinkan siapa saja untuk membuat kampanye penggalangan dana, dan siapa pun dapat berdonasi ke kampanye tersebut menggunakan token AVAX.
 
 ---
 
